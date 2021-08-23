@@ -11,7 +11,7 @@
 							<div class="col-sm-12">
 								<h3 class="page-title">General Settings</h3>
 								<ul class="breadcrumb">
-									<li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+									<li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
 									<li class="breadcrumb-item"><a href="javascript:(0)">Settings</a></li>
 									<li class="breadcrumb-item active">General Settings</li>
 								</ul>

@@ -11,7 +11,7 @@
                 <div class="col">
                     <h3 class="page-title">Basic Inputs</h3>
                     <ul class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+                        <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
                         <li class="breadcrumb-item active">Basic Inputs</li>
                     </ul>
                 </div>

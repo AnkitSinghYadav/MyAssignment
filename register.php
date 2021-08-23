@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from doccure-html.dreamguystech.com/template/admin/register.html by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 12 Jan 2021 13:07:14 GMT -->
+<!-- Mirrored from doccure-html.dreamguystech.com/template/admin/register.php by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 12 Jan 2021 13:07:14 GMT -->
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
@@ -40,7 +40,7 @@
 								<p class="account-subtitle">Access to our dashboard</p>
 								
 								<!-- Form -->
-								<form action="../../../external.html?link=https://doccure-html.dreamguystech.com/template/admin/login.html">
+								<form action="../../../external.php?link=https://doccure-html.dreamguystech.com/template/admin/login.php">
 									<div class="form-group">
 										<input class="form-control" type="text" placeholder="Name">
 									</div>

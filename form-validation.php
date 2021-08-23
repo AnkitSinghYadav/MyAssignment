@@ -11,7 +11,7 @@
 							<div class="col-sm-12">
 								<h3 class="page-title">Form Validation</h3>
 								<ul class="breadcrumb">
-									<li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+									<li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
 									<li class="breadcrumb-item active">Form Validation</li>
 								</ul>
 							</div>
@@ -27,7 +27,7 @@
 							<div class="card">
 								<div class="card-header">
 									<h5 class="card-title">Custom Bootstrap Form Validation</h5>
-									<p class="card-text">For custom Bootstrap form validation messages, you’ll need to add the <code>novalidate</code> boolean attribute to your form. For server side validation <a href="../../../external.html?link=https://getbootstrap.com/docs/4.1/components/forms/#server-side" target="_blank">read full documentation</a>.</p>
+									<p class="card-text">For custom Bootstrap form validation messages, you’ll need to add the <code>novalidate</code> boolean attribute to your form. For server side validation <a href="../../../external.php?link=https://getbootstrap.com/docs/4.1/components/forms/#server-side" target="_blank">read full documentation</a>.</p>
 								</div>
 								<div class="card-body">
 									<div class="row">

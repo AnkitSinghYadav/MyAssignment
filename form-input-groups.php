@@ -11,7 +11,7 @@
 							<div class="col">
 								<h3 class="page-title">Input Groups</h3>
 								<ul class="breadcrumb">
-									<li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+									<li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
 									<li class="breadcrumb-item active">Input Groups</li>
 								</ul>
 							</div>

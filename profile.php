@@ -244,5 +244,5 @@
 		
     </body>
 
-<!-- Mirrored from doccure-html.dreamguystech.com/template/admin/profile.html by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 12 Jan 2021 13:01:15 GMT -->
+<!-- Mirrored from doccure-html.dreamguystech.com/template/admin/profile.php by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 12 Jan 2021 13:01:15 GMT -->
 </html>

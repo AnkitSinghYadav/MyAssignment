@@ -11,7 +11,7 @@
 							<div class="col-sm-12">
 								<h3 class="page-title">Invoice Report</h3>
 								<ul class="breadcrumb">
-									<li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+									<li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
 									<li class="breadcrumb-item active">Invoice Report</li>
 								</ul>
 							</div>
@@ -38,12 +38,12 @@
 											</thead>
 											<tbody>
 												<tr>
-													<td><a href="invoice.html">#IN0001</td>
+													<td><a href="invoice.php">#IN0001</td>
 													<td>#PT001</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient1.jpg" alt="User Image"></a>
-															<a href="profile.html">Charlene Reed </a>
+															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient1.jpg" alt="User Image"></a>
+															<a href="profile.php">Charlene Reed </a>
 														</h2>
 													</td>
 													<td>$100.00</td>
@@ -64,12 +64,12 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.html">#IN0002</td>
+													<td><a href="invoice.php">#IN0002</td>
 													<td>#PT002</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient2.jpg" alt="User Image"></a>
-															<a href="profile.html">Travis Trimble </a>
+															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient2.jpg" alt="User Image"></a>
+															<a href="profile.php">Travis Trimble </a>
 														</h2>
 													</td>
 													<td>$200.00</td>
@@ -90,12 +90,12 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.html">#IN0003</td>
+													<td><a href="invoice.php">#IN0003</td>
 													<td>#PT003</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient3.jpg" alt="User Image"></a>
-															<a href="profile.html">Carl Kelly</a>
+															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient3.jpg" alt="User Image"></a>
+															<a href="profile.php">Carl Kelly</a>
 														</h2>
 													</td>
 													<td>$250.00</td>
@@ -116,12 +116,12 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.html">#IN0004</td>
+													<td><a href="invoice.php">#IN0004</td>
 													<td>#PT004</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient4.jpg" alt="User Image"></a>
-															<a href="profile.html"> Michelle Fairfax</a>
+															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient4.jpg" alt="User Image"></a>
+															<a href="profile.php"> Michelle Fairfax</a>
 														</h2>
 													</td>
 													<td>$150.00</td>
@@ -142,12 +142,12 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.html">#IN0005</td>
+													<td><a href="invoice.php">#IN0005</td>
 													<td>#PT005</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient5.jpg" alt="User Image"></a>
-															<a href="profile.html">Gina Moore</a>
+															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient5.jpg" alt="User Image"></a>
+															<a href="profile.php">Gina Moore</a>
 														</h2>
 													</td>
 													<td>$350.00</td>
@@ -168,12 +168,12 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.html">#IN0006</td>
+													<td><a href="invoice.php">#IN0006</td>
 													<td>#PT006</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient6.jpg" alt="User Image"></a>
-															<a href="profile.html">Elsie Gilley</a>
+															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient6.jpg" alt="User Image"></a>
+															<a href="profile.php">Elsie Gilley</a>
 														</h2>
 													</td>
 													<td>$300.00</td>
@@ -194,12 +194,12 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.html">#IN0007</td>
+													<td><a href="invoice.php">#IN0007</td>
 													<td>#PT007</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient7.jpg" alt="User Image"></a>
-															<a href="profile.html"> Joan Gardner</a>
+															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient7.jpg" alt="User Image"></a>
+															<a href="profile.php"> Joan Gardner</a>
 														</h2>
 													</td>
 													<td>$250.00</td>
@@ -220,12 +220,12 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.html">#IN0008</td>
+													<td><a href="invoice.php">#IN0008</td>
 													<td>#PT008</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient8.jpg" alt="User Image"></a>
-															<a href="profile.html"> Daniel Griffing</a>
+															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient8.jpg" alt="User Image"></a>
+															<a href="profile.php"> Daniel Griffing</a>
 														</h2>
 													</td>
 													<td>$150.00</td>
@@ -246,12 +246,12 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.html">#IN0009</td>
+													<td><a href="invoice.php">#IN0009</td>
 													<td>#PT009</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient9.jpg" alt="User Image"></a>
-															<a href="profile.html">Walter Roberson</a>
+															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient9.jpg" alt="User Image"></a>
+															<a href="profile.php">Walter Roberson</a>
 														</h2>
 													</td>
 													<td>$100.00</td>
@@ -272,12 +272,12 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.html">#IN0010</td>
+													<td><a href="invoice.php">#IN0010</td>
 													<td>#PT010</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient10.jpg" alt="User Image"></a>
-															<a href="profile.html">Robert Rhodes </a>
+															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient10.jpg" alt="User Image"></a>
+															<a href="profile.php">Robert Rhodes </a>
 														</h2>
 													</td>
 													<td>$120.00</td>

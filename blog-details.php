@@ -10,7 +10,7 @@
 							<div class="col-sm-12">
 								<h3 class="page-title">Blog Details</h3>
 								<ul class="breadcrumb">
-									<li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+									<li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
 									<li class="breadcrumb-item"><a href="javascript:(0);">Pages</a></li>
 									<li class="breadcrumb-item active">Blog Details</li>
 								</ul>
@@ -35,7 +35,7 @@
 											<ul>
 												<li>
 													<div class="post-author">
-														<a href="doctor-profile.html"><img src="assets/img/doctors/doctor-thumb-02.jpg" alt="Post Author"> <span>Dr. Darren Elder</span></a>
+														<a href="doctor-profile.php"><img src="assets/img/doctors/doctor-thumb-02.jpg" alt="Post Author"> <span>Dr. Darren Elder</span></a>
 													</div>
 												</li>
 												<li><i class="far fa-calendar"></i>4 Dec 2019</li>
@@ -73,11 +73,11 @@
 									<div class="about-author">
 										<div class="about-author-img">
 											<div class="author-img-wrap">
-												<a href="doctor-profile.html"><img class="img-fluid rounded-circle" alt="" src="assets/img/doctors/doctor-thumb-02.jpg"></a>
+												<a href="doctor-profile.php"><img class="img-fluid rounded-circle" alt="" src="assets/img/doctors/doctor-thumb-02.jpg"></a>
 											</div>
 										</div>
 										<div class="author-details">
-											<a href="doctor-profile.html" class="blog-author-name">Dr. Darren Elder</a>
+											<a href="doctor-profile.php" class="blog-author-name">Dr. Darren Elder</a>
 											<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
 										</div>
 									</div>

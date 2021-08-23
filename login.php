@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from doccure-html.dreamguystech.com/template/admin/login.html by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 12 Jan 2021 13:01:15 GMT -->
+<!-- Mirrored from doccure-html.dreamguystech.com/template/admin/login.php by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 12 Jan 2021 13:01:15 GMT -->
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
@@ -40,7 +40,7 @@
 								<p class="account-subtitle">Access to our dashboard</p>
 								
 								<!-- Form -->
-								<form action="../../../external.html?link=https://doccure-html.dreamguystech.com/template/admin/index.html">
+								<form action="../../../external.php?link=https://doccure-html.dreamguystech.com/template/admin/index.php">
 									<div class="form-group">
 										<input class="form-control" type="text" placeholder="Email">
 									</div>
@@ -53,7 +53,7 @@
 								</form>
 								<!-- /Form -->
 								
-								<div class="text-center forgotpass"><a href="forgot-password.html">Forgot Password?</a></div>
+								<div class="text-center forgotpass"><a href="forgot-password.php">Forgot Password?</a></div>
 								<div class="login-or">
 									<span class="or-line"></span>
 									<span class="span-or">or</span>
@@ -66,7 +66,7 @@
 								</div>
 								<!-- /Social Login -->
 								
-								<div class="text-center dont-have">Don’t have an account? <a href="register.html">Register</a></div>
+								<div class="text-center dont-have">Don’t have an account? <a href="register.php">Register</a></div>
 							</div>
                         </div>
                     </div>

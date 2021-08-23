@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from doccure-html.dreamguystech.com/template/admin/appointment-list.html by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 12 Jan 2021 13:01:16 GMT -->
+<!-- Mirrored from doccure-html.dreamguystech.com/template/admin/appointment-list.php by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 12 Jan 2021 13:01:16 GMT -->
 
 <head>
     <meta charset="utf-8">

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from doccure-html.dreamguystech.com/template/admin/error-404.html by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 12 Jan 2021 13:07:18 GMT -->
+<!-- Mirrored from doccure-html.dreamguystech.com/template/admin/error-404.php by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 12 Jan 2021 13:07:18 GMT -->
 
 <head>
     <meta charset="utf-8">

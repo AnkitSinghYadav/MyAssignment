@@ -9,8 +9,8 @@
 						<div class="row">
 							<div class="col">
 								<h3 class="page-title">Components</h3>
-								<ul class="breadcrumb">
-									<li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+								<ul class="breadcrumb"> 
+									<li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
 									<li class="breadcrumb-item active">Components</li>
 								</ul>
 							</div>
